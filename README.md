@@ -6,12 +6,7 @@ This project implements a Fake News Detection system using a combination of Mach
 
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
-- [Preprocessing](#preprocessing)
 - [Implemented Models](#implemented-models)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Saved Artifacts](#saved-artifacts)
-- [How to Use](#how-to-use)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
